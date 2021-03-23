@@ -1,4 +1,3 @@
-#include <cstring>
 #include <functional>
 
 inline constexpr size_t variant_npos = -1;
